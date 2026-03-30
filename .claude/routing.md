@@ -12,6 +12,8 @@
   skill: eval-sync
 
 ## agents
+- pattern: 분석|analysis|인사이트|insight|트렌드|trend|보고서|report
+  agent: eval-analyst
 
 ## Fallback
 매칭 실패 시 → `~/.claude/agents/architect.md` 호출
