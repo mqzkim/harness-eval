@@ -1,0 +1,7 @@
+{
+  "department": "Intelligence",
+  "last_sync": "2026-03-30T00:00:00Z",
+  "version": "1.0.0",
+  "covers": ["evaluations", "analytics", "monitoring", "cost-optimization"],
+  "pages": ["/eval", "/analytics", "/monitor", "/cost-optimizer"]
+}

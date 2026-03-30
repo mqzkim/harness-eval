@@ -1,0 +1,13 @@
+{
+  "name": "Intelligence",
+  "slug": "eval",
+  "color": "#8B5CF6",
+  "icon": "🔍",
+  "description": "평가·분석·모니터링·비용 최적화",
+  "personas": ["Critic", "Optimizer", "Historian"],
+  "scope": {
+    "tables": ["evaluations", "benchmarks", "sessions", "events", "dailyStats"],
+    "actions": ["evaluations.ts"],
+    "pages": ["eval", "analytics", "monitor", "cost-optimizer"]
+  }
+}

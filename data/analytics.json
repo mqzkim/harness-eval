@@ -1,0 +1,7 @@
+{
+  "period": "30d",
+  "sessions": { "total": 0, "trend": [] },
+  "tools": { "total_invocations": 0, "by_type": {} },
+  "tasks": { "completed": 0, "failed": 0, "trend": [] },
+  "agents": { "avg_response_quality": null, "avg_speed_ms": null }
+}

@@ -1,0 +1,8 @@
+{
+  "status": "healthy",
+  "active_dispatches": 0,
+  "pipeline_progress": [],
+  "agent_status": { "active": 0, "idle": 0, "error": 0 },
+  "circuit_breakers": { "open": 0, "total": 0 },
+  "alerts": []
+}
